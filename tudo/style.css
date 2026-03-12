@@ -1,0 +1,222 @@
+
+
+/*edição do laura*/
+
+body{
+margin:0px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+.botao1 {
+  background-color: rgb(69, 67, 72);
+  border-radius: 10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+ box-shadow:0px 4px 10px rgb(25, 19, 19);
+  }
+
+
+.oii{
+ color: rgb(69, 67, 72);
+background:rgb(177, 175, 175);
+padding:30px;
+width:350px;
+border-radius:10px;
+box-shadow:0px 4px 10px rgb(177, 175, 175);
+ }
+
+ .cabecaralho{
+
+display:flex;
+align-items:center;
+justify-content:space-between;
+background:#5b5b5b;
+padding:10px 20px;
+color:rgb(0, 0, 0);
+
+}
+
+.junto{
+color:#5b5b5b;
+font-size: 36px;
+}
+
+
+
+/*edição do antonio*/
+
+
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+    background:#f4f6f9;
+}
+
+header{
+    background: rgb(69, 67, 72);
+    color:white;
+    padding:20px;
+    text-align:center;
+}
+
+.bloco{
+    width:80%;
+    margin:auto;
+    padding:20px;
+}
+
+.cardes{
+    background:white;
+    padding:20px;
+    margin:15px 0;
+    border-radius:8px;
+    box-shadow:0 2px 5px rgb(69, 67, 72);
+}
+
+h2{
+    color: rgb(69, 67, 72);
+}
+
+.etapas{
+    display:flex;
+    flex-wrap:wrap;
+    gap:15px;
+}
+
+.etapa{
+    flex:1;
+    min-width:200px;
+    background:#e8eefc;
+    padding:15px;
+    border-radius:6px;
+}
+
+footer{
+    background: rgb(69, 67, 72);
+    color:white;
+    text-align:center;
+    padding:10px;
+    margin-top:20px;
+}
+
+
+/*edição gustavo*/
+
+
+
+.topo{
+    color: white;
+    border: none;
+    border-radius: 12px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    padding: 20px;
+    background-color: #2f383f;
+}
+
+.container-centro {
+    flex: 1; 
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.inicio{
+    color: white;
+    background-color: rgb(82, 105, 121);
+    font-size: 35px;
+    padding: 40px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+
+.login{
+    color: black;
+    text-decoration: none;
+    background-color:rgb(132, 146, 156);
+    font-size: 20px;
+    padding: 12px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.registro{
+    color: black;
+    text-decoration: none;
+    background-color:rgb(132, 146, 156) ;
+    font-size: 20px;
+    padding: 12px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+
+/*edição Miguel*/
+
+
+    .input-group {
+    margin-bottom: 1rem;
+     text-align: left; 
+}
+
+label {
+    display: block; 
+    margin-bottom: 0.5rem;
+    color: #555;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="tel"] {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box; 
+    font-size: 1rem;
+    
+}
+
+/*edição matheus g*/
+
+
+.login-container {
+    background-color: rgb(240, 240, 243);
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(31, 31, 31, 0.1);
+}
+
+
+.input-group {
+    margin-bottom: 1rem;
+}
+
+
+.input-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+
+.input-group input {
+    width: 100%;
+    padding: 0.5rem;
+    box-sizing: border-box;
+}
+
